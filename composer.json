@@ -1,10 +1,14 @@
 {
-    "name": "sagar/outlook-php",
+    "name": "notf0und/outlook-php",
     "description": "The api to handle outlook rest api using php",
     "keywords": ["php-rest-outlook", "outlook"],
     "license": "MIT",
     "type": "package",
     "authors": [
+        {
+            "name": "Fabián Gonzalo Artur de la Villarmois",
+            "email": "gonzartur@gmail.com"
+        },
         {
             "name": "Sagar Rabadiya",
             "email": "sam.coolone70@gmail.com"
