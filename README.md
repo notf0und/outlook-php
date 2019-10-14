@@ -5,7 +5,7 @@ A handy tool to work with outlook rest api
 
 #### Installation
 ```bash 
-    composer require sagar/outlook-php
+    composer require notf0und/outlook-php
 ```
 
 #### Authenticator
